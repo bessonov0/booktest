@@ -1,3 +1,7 @@
+---
+description: тут тестируем коды
+---
+
 # Всякие коды
 
 {% code-tabs %}
@@ -52,8 +56,25 @@ fun testBulkInserts() {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+![&#x420;&#x43E;&#x434;&#x438;&#x43D;&#x430; &#x441;&#x43B;&#x44B;&#x448;&#x438;&#x442; - &#x412;&#x430;&#x441;&#x44F; &#x41B;&#x43E;&#x436;&#x43A;&#x438;&#x43D;](../.gitbook/assets/22188-540x437.jpg)
+
+тут тестируем [коды ](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4)
+
+{% file src="../.gitbook/assets/analitiki.jpg" %}
+
+{% page-ref page="vsyakie-kody.md" %}
+
+{% hint style="info" %}
+Тут подскауываыва
+{% endhint %}
 
 
-  
+
+* [ ] фывфы
+* [x] фывфывыф
+* [ ] фывфыв
+* [ ] 
+#### прарпарпар
+
 
 
