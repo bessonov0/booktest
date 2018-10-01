@@ -76,5 +76,21 @@ fun testBulkInserts() {
 * [ ] 
 #### прарпарпар
 
+```kotlin
+package com.bftcom.ice.server.services
+
+import com.bftcom.ice.common.maps.dataMapToString
+import com.bftcom.ice.common.maps.inSilence
+import com.bftcom.ice.server.Attach
+import com.bftcom.ice.server.BaseSpringTests
+import com.bftcom.ice.server.test.IfSpringProfileActive
+import org.junit.Test
+import kotlin.test.assertEquals
+
+
+```
+
+{% page-ref page="api.md" %}
+
 
 
